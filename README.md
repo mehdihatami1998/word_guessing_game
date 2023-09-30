@@ -12,4 +12,4 @@ text to be here
 text to be here
 
 ## Modules
-text to eb here
+text to be here

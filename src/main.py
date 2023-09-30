@@ -1,4 +1,6 @@
 from utils import word_generator
+from utils import input_validator
+from utils import hint_generator
 
 
 def main():
