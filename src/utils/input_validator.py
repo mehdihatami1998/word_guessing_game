@@ -1,5 +1,5 @@
 
-def validate_user_input():
+def get_user_input():
     user_input = input("Guess which letter exists in the word: ")
     if len(user_input) == 1:
         return user_input
