@@ -26,13 +26,6 @@ def main():
         if blank_word.replace(" ", "") == selected_word:
             print("Congratulations!, You guessed the word!")
             break
-                #blank_word = blank_word[:index[i]] + user_input + blank_word[index[i] + 1:]
-        #if user_input in selected_word:
-        #    print(f"the letter {user_input} exists in the word")
-        #   index = selected_word.index(user_input)
-        #   blank_word = blank_word[:index] + user_input + blank_word[index + 1:]
-            
-
 
 if __name__ == "__main__":
     main()
