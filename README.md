@@ -26,7 +26,7 @@ word_guesser_game
     ```
 3. Run the game
     ```
-    main.py
+    python main.py
     ```
 4. Follow on-screen prompts to play the game.
 ## Modules
@@ -38,3 +38,4 @@ word_guesser_game
     - `src/utils/input_validator.py`: This module is used to validate the user input.
 - `src/game_logic/`: This directory contains the game logic modules.
 - `src/main.py`: This is the main module of the game. It contains the main function which is the entry point of the game.
+#test
