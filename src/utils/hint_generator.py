@@ -1,1 +1,2 @@
-def generate_hint()
+def generate_hint():
+    pass
