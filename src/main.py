@@ -50,10 +50,10 @@ def main():
                 print("Sorry!, you have guessed too many wrong letters. The word was " + selected_word)
                 break
 
-            print("Do you need a hint? (y/n)")
-            need_hint = input("Do you need a hint? (y/n)")
-            if need_hint == "y":
-                hint_generator()
+            #print("Do you need a hint? (y/n)")
+            #need_hint = input("Do you need a hint? (y/n)")
+            #if need_hint == "y":
+            #    hint_generator()
 
         
         if blank_word.replace(" ", "") == selected_word:
